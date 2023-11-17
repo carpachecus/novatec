@@ -1,2 +1,2 @@
 #!/bin/bash
-python test_launch.py
+python3 test_launch.py
